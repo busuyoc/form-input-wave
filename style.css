@@ -78,6 +78,7 @@ body {
 .form-control input:focus,
 .form-control input:valid {
   outline: 0;
+  color: lightblue;
   border-bottom-color: lightblue;
 }
 
@@ -86,7 +87,6 @@ body {
   top: 15px;
   left: 0;
   /* pointer-events: none; */
-  
 }
 
 .form-control label span {
